@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Rhode Island, US",
-  "export_job_id": "8be60e2f-9f1b-4aaf-975d-43e9bb349a41",
+  "export_job_id": "46fa17bf-d300-4cfa-a7f5-eb5c84644aa2",
   "github_org": "Beamstation-Datasets",
   "id_short": 833303,
   "location_name": "Rhode Island",
   "location_type": "state",
   "repo_name": "the-hhi-monopoly-index-for-rhode-island-us-sample-833303",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/833303/beamstation_833303_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_pct": 9.02,
+  "sample_pct": 9.4,
   "sample_records": 11,
   "sample_sha256": "e5d0dbfab2f18e564bbf4a5c475c3fa1388657b623509170dcf5d428b0805af3",
   "sample_size_bytes": 57372,
-  "total_records": 122,
-  "updated_at": "2026-04-08T00:41:09.427770+00:00"
+  "total_records": 117,
+  "updated_at": "2026-04-15T06:23:59.022868+00:00"
 }
