@@ -9,9 +9,9 @@
 | Dataset ID | `833303` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 122 records |
-| Free sample size | 11 records (9.02%) |
-| Last export | 2026-04-08T00:41:09.427770+00:00 |
+| Full dataset size | 117 records |
+| Free sample size | 11 records (9.4%) |
+| Last export | 2026-04-15T06:23:59.022868+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-rhode-island-us-sample-833303/releases/download/sample-latest/beamstation_833303_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
