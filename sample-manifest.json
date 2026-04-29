@@ -1,12 +1,12 @@
 {
-  "export_job_id": "584280cd-cd84-465c-b40c-a4762ba9c3b5",
+  "export_job_id": "62a535c2-f9a9-4b78-962a-d29eb1e8963a",
   "id_short": 833303,
-  "published_at": "2026-04-23T07:12:24Z",
+  "published_at": "2026-04-29T19:46:23Z",
   "repo_name": "the-hhi-monopoly-index-for-rhode-island-us-sample-833303",
   "sample_asset_name": "beamstation_833303_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/833303/beamstation_833303_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "e8bfec964967278807ba971f0ea123285065e3cf13b460bb68c1f89919d4c845",
-  "sample_size_bytes": 42169,
-  "total_records": 72
+  "sample_records": 11,
+  "sample_sha256": "fc84cced33554d12f2a3f0265d638cbde3f8fa53ebcdedfaba0b34b82a64cfe2",
+  "sample_size_bytes": 56824,
+  "total_records": 115
 }
