@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Rhode Island, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `833303` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 72 records |
-| Free sample size | 7 records (9.72%) |
-| Last export | 2026-04-22T12:23:50.460670+00:00 |
+| Full dataset size | 115 records |
+| Free sample size | 11 records (9.57%) |
+| Last export | 2026-04-29T13:19:28.852495+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-rhode-island-us-sample-833303/releases/download/sample-latest/beamstation_833303_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
